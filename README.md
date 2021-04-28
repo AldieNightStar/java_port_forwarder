@@ -2,7 +2,7 @@
 
 # Usage
 
-`PORT_FWD.bad` `-h HOSTNAME` `-p PORT` `-s PORT2`
+`PORT_FWD.bat` `-h HOSTNAME` `-p PORT` `-s PORT2`
 
 * `-h` - Host name. By default: `localhost`
 * `-p` - Source Port
